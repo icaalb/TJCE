@@ -1,0 +1,554 @@
+[
+    {
+        "date": "2025-03-03",
+        "description": "Carnaval - ponto facultativo",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-03-04",
+        "description": "Carnaval - ponto facultativo",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-03-05",
+        "description": "Quarta-feira de Cinzas - Ponto facultativo até as 14h",
+        "type": "Ponto Facultativo",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-03-19",
+        "description": "Dia de São José - Ponto Facultativo",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-03-19",
+        "description": "Dia de São José, padroeiro do Ceará - Feriado",
+        "type": "Feriado",
+        "scope": "Fortaleza"
+    },
+    {
+        "date": "2025-03-25",
+        "description": "Data Magna do Ceará - Feriado estadual",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-04-17",
+        "description": "Quinta-feira e sexta-feira da Semana Santa - Ponto facultativo",
+        "type": "Ponto Facultativo",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-04-18",
+        "description": "Quinta-feira e sexta-feira da Semana Santa - Ponto facultativo",
+        "type": "Ponto Facultativo",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-04-21",
+        "description": "Tiradentes - Feriado nacional",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-05-01",
+        "description": "Dia Mundial do Trabalho - Feriado nacional",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-06-19",
+        "description": "Corpus Christi - Ponto facultativo",
+        "type": "Ponto Facultativo",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-06-19",
+        "description": "Corpus Christi - Feriado",
+        "type": "Feriado",
+        "scope": "Fortaleza"
+    },
+    {
+        "date": "2025-07-01",
+        "description": "Granja",
+        "type": "Feriado Municipal",
+        "scope": "Granja"
+    },
+    {
+        "date": "2025-07-04",
+        "description": "Sobral",
+        "type": "Feriado Municipal",
+        "scope": "Sobral"
+    },
+    {
+        "date": "2025-07-07",
+        "description": "Crateús",
+        "type": "Feriado Municipal",
+        "scope": "Crateús"
+    },
+    {
+        "date": "2025-07-07",
+        "description": "Viçosa",
+        "type": "Feriado Municipal",
+        "scope": "Viçosa"
+    },
+    {
+        "date": "2025-07-10",
+        "description": "Amontada",
+        "type": "Feriado Municipal",
+        "scope": "Amontada"
+    },
+    {
+        "date": "2025-07-10",
+        "description": "Missão Velha",
+        "type": "Feriado Municipal",
+        "scope": "Missão Velha"
+    },
+    {
+        "date": "2025-07-14",
+        "description": "Icó",
+        "type": "Feriado Municipal",
+        "scope": "Icó"
+    },
+    {
+        "date": "2025-07-14",
+        "description": "Acopiara",
+        "type": "Feriado Municipal",
+        "scope": "Acopiara"
+    },
+    {
+        "date": "2025-07-16",
+        "description": "Canindé",
+        "type": "Feriado Municipal",
+        "scope": "Canindé"
+    },
+    {
+        "date": "2025-07-16",
+        "description": "Jucás",
+        "type": "Feriado Municipal",
+        "scope": "Jucás"
+    },
+    {
+        "date": "2025-07-16",
+        "description": "Pacatuba",
+        "type": "Feriado Municipal",
+        "scope": "Pacatuba"
+    },
+    {
+        "date": "2025-07-17",
+        "description": "Itapajé",
+        "type": "Feriado Municipal",
+        "scope": "Itapajé"
+    },
+    {
+        "date": "2025-07-17",
+        "description": "Ararendá",
+        "type": "Feriado Municipal",
+        "scope": "Ararendá"
+    },
+    {
+        "date": "2025-07-17",
+        "description": "Mauriti",
+        "type": "Feriado Municipal",
+        "scope": "Mauriti"
+    },
+    {
+        "date": "2025-07-17",
+        "description": "Assaré",
+        "type": "Feriado Municipal",
+        "scope": "Assaré"
+    },
+    {
+        "date": "2025-07-20",
+        "description": "Farias Brito",
+        "type": "Feriado Municipal",
+        "scope": "Farias Brito"
+    },
+    {
+        "date": "2025-07-20",
+        "description": "Itapajé",
+        "type": "Feriado Municipal",
+        "scope": "Itapajé"
+    },
+    {
+        "date": "2025-07-22",
+        "description": "Juazeiro do Norte",
+        "type": "Feriado Municipal",
+        "scope": "Juazeiro do Norte"
+    },
+    {
+        "date": "2025-07-25",
+        "description": "Eusébio",
+        "type": "Feriado Municipal",
+        "scope": "Eusébio"
+    },
+    {
+        "date": "2025-07-28",
+        "description": "Iguatu",
+        "type": "Feriado Municipal",
+        "scope": "Iguatu"
+    },
+    {
+        "date": "2025-07-28",
+        "description": "Independência",
+        "type": "Feriado Municipal",
+        "scope": "Independência"
+    },
+    {
+        "date": "2025-07-28",
+        "description": "Jaguaruana",
+        "type": "Feriado Municipal",
+        "scope": "Jaguaruana"
+    },
+    {
+        "date": "2025-08-01",
+        "description": "Varjota",
+        "type": "Feriado Municipal",
+        "scope": "Varjota"
+    },
+    {
+        "date": "2025-08-02",
+        "description": "Camocim",
+        "type": "Feriado Municipal",
+        "scope": "Camocim"
+    },
+    {
+        "date": "2025-08-02",
+        "description": "Canindé",
+        "type": "Feriado Municipal",
+        "scope": "Canindé"
+    },
+    {
+        "date": "2025-08-02",
+        "description": "Tianguá",
+        "type": "Feriado Municipal",
+        "scope": "Tianguá"
+    },
+    {
+        "date": "2025-08-02",
+        "description": "Acaraú",
+        "type": "Feriado Municipal",
+        "scope": "Acaraú"
+    },
+    {
+        "date": "2025-08-02",
+        "description": "Uruburetama",
+        "type": "Feriado Municipal",
+        "scope": "Uruburetama"
+    },
+    {
+        "date": "2025-08-02",
+        "description": "Morada Nova",
+        "type": "Feriado Municipal",
+        "scope": "Morada Nova"
+    },
+    {
+        "date": "2025-08-05",
+        "description": "Caridade",
+        "type": "Feriado Municipal",
+        "scope": "Caridade"
+    },
+    {
+        "date": "2025-08-05",
+        "description": "Russas",
+        "type": "Feriado Municipal",
+        "scope": "Russas"
+    },
+    {
+        "date": "2025-08-08",
+        "description": "Pedra Branca",
+        "type": "Feriado Municipal",
+        "scope": "Pedra Branca"
+    },
+    {
+        "date": "2025-08-10",
+        "description": "Baturité",
+        "type": "Feriado Municipal",
+        "scope": "Baturité"
+    },
+    {
+        "date": "2025-08-10",
+        "description": "Mucambo",
+        "type": "Feriado Municipal",
+        "scope": "Mucambo"
+    },
+    {
+        "date": "2025-08-10",
+        "description": "Jaguaribe",
+        "type": "Feriado Municipal",
+        "scope": "Jaguaribe"
+    },
+    {
+        "date": "2025-08-10",
+        "description": "Madalena",
+        "type": "Feriado Municipal",
+        "scope": "Madalena"
+    },
+    {
+        "date": "2025-08-10",
+        "description": "Viçosa",
+        "type": "Feriado Municipal",
+        "scope": "Viçosa"
+    },
+    {
+        "date": "2025-08-13",
+        "description": "Nova Russas",
+        "type": "Feriado Municipal",
+        "scope": "Nova Russas"
+    },
+    {
+        "date": "2025-08-14",
+        "description": "Quixeramobim",
+        "type": "Feriado Municipal",
+        "scope": "Quixeramobim"
+    },
+    {
+        "date": "2025-08-14",
+        "description": "Aiuba, Aquiraz, Mombaça, Nova Russas e Uruoca",
+        "type": "Feriado Municipal",
+        "scope": "Aiuba"
+    },
+    {
+        "date": "2025-08-14",
+        "description": "Aiuba, Aquiraz, Mombaça, Nova Russas e Uruoca",
+        "type": "Feriado Municipal",
+        "scope": "Aquiraz"
+    },
+    {
+        "date": "2025-08-14",
+        "description": "Aiuba, Aquiraz, Mombaça, Nova Russas e Uruoca",
+        "type": "Feriado Municipal",
+        "scope": "Mombaça"
+    },
+    {
+        "date": "2025-08-14",
+        "description": "Aiuba, Aquiraz, Mombaça, Nova Russas e Uruoca",
+        "type": "Feriado Municipal",
+        "scope": "Nova Russas"
+    },
+    {
+        "date": "2025-08-14",
+        "description": "Aiuba, Aquiraz, Mombaça, Nova Russas e Uruoca",
+        "type": "Feriado Municipal",
+        "scope": "Uruoca"
+    },
+    {
+        "date": "2025-08-14",
+        "description": "Milagres",
+        "type": "Feriado Municipal",
+        "scope": "Milagres"
+    },
+    {
+        "date": "2025-08-15",
+        "description": "Dia de Nossa Senhora da Assunção, padroeira de Fortaleza - Feriado municipal",
+        "type": "Feriado",
+        "scope": "Fortaleza"
+    },
+    {
+        "date": "2025-08-15",
+        "description": "Dia de Nossa Senhora da Assunção",
+        "type": "Feriado Municipal",
+        "scope": "Fortaleza"
+    },
+    {
+        "date": "2025-08-15",
+        "description": "Guaraciaba do Norte",
+        "type": "Feriado Municipal",
+        "scope": "Guaraciaba do Norte"
+    },
+    {
+        "date": "2025-08-15",
+        "description": "Massapê",
+        "type": "Feriado Municipal",
+        "scope": "Massapê"
+    },
+    {
+        "date": "2025-10-01",
+        "description": "Acopiara",
+        "type": "Feriado Municipal",
+        "scope": "Acopiara"
+    },
+    {
+        "date": "2025-10-01",
+        "description": "Abaiara",
+        "type": "Feriado Municipal",
+        "scope": "Abaiara"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Acopiara",
+        "type": "Feriado Municipal",
+        "scope": "Acopiara"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Brejo Santo",
+        "type": "Feriado Municipal",
+        "scope": "Brejo Santo"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Camocim",
+        "type": "Feriado Municipal",
+        "scope": "Camocim"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Canindé",
+        "type": "Feriado Municipal",
+        "scope": "Canindé"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Cascavel",
+        "type": "Feriado Municipal",
+        "scope": "Cascavel"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Itapajé",
+        "type": "Feriado Municipal",
+        "scope": "Itapajé"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Itapipoca",
+        "type": "Feriado Municipal",
+        "scope": "Itapipoca"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Jaguaruana",
+        "type": "Feriado Municipal",
+        "scope": "Jaguaruana"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Massapê",
+        "type": "Feriado Municipal",
+        "scope": "Massapê"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Pentecoste",
+        "type": "Feriado Municipal",
+        "scope": "Pentecoste"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Tianguá",
+        "type": "Feriado Municipal",
+        "scope": "Tianguá"
+    },
+    {
+        "date": "2025-10-04",
+        "description": "Ubajara",
+        "type": "Feriado Municipal",
+        "scope": "Ubajara"
+    },
+    {
+        "date": "2025-10-06",
+        "description": "Aracati",
+        "type": "Feriado Municipal",
+        "scope": "Aracati"
+    },
+    {
+        "date": "2025-10-06",
+        "description": "Russas",
+        "type": "Feriado Municipal",
+        "scope": "Russas"
+    },
+    {
+        "date": "2025-10-06",
+        "description": "Tauá",
+        "type": "Feriado Municipal",
+        "scope": "Tauá"
+    },
+    {
+        "date": "2025-10-09",
+        "description": "Várzea Alegre",
+        "type": "Feriado Municipal",
+        "scope": "Várzea Alegre"
+    },
+    {
+        "date": "2025-10-28",
+        "description": "Dia do Servidor Público Estadual",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2025-11-20",
+        "description": "Dia Nacional de Zumbi e da Consciência Negra - Feriado nacional",
+        "type": "Feriado",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2026-01-01",
+        "description": "Recesso Forense",
+        "type": "Recesso",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2026-01-01",
+        "description": "Recesso Natalino",
+        "type": "Recesso",
+        "scope": "Nacional/Estadual"
+    },
+    {
+        "date": "2026-01-06",
+        "description": "Ipaumirim",
+        "type": "Feriado Municipal",
+        "scope": "Ipaumirim"
+    },
+    {
+        "date": "2026-01-06",
+        "description": "Umari",
+        "type": "Feriado Municipal",
+        "scope": "Umari"
+    },
+    {
+        "date": "2026-01-19",
+        "description": "Acaraú",
+        "type": "Feriado Municipal",
+        "scope": "Acaraú"
+    },
+    {
+        "date": "2026-01-19",
+        "description": "Aracati",
+        "type": "Feriado Municipal",
+        "scope": "Aracati"
+    },
+    {
+        "date": "2026-01-19",
+        "description": "Ipu",
+        "type": "Feriado Municipal",
+        "scope": "Ipu"
+    },
+    {
+        "date": "2026-01-19",
+        "description": "Itapipoca",
+        "type": "Feriado Municipal",
+        "scope": "Itapipoca"
+    },
+    {
+        "date": "2026-01-19",
+        "description": "Maranguape",
+        "type": "Feriado Municipal",
+        "scope": "Maranguape"
+    },
+    {
+        "date": "2026-01-19",
+        "description": "Monsenhor Tabosa",
+        "type": "Feriado Municipal",
+        "scope": "Monsenhor Tabosa"
+    },
+    {
+        "date": "2026-01-22",
+        "description": "Icapuí",
+        "type": "Feriado Municipal",
+        "scope": "Icapuí"
+    }
+]
